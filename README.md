@@ -1,6 +1,2 @@
-# PROJECT NAME
- Simple Random password generator
-
-## HOW IT WORKS?
-this simple application consists on choosing some parameters to create a random password
-knowing also the strenght of it.
+# Simple Random Password Generator
+This simple application allows you to choose some parameters to generate a random password and also provides information about its strength.
