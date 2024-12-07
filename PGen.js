@@ -151,7 +151,7 @@ function generatePassword(){
 }
 
 
-{ //bottone notte-giorno
+{ 
     const body = document.body;
     const themeSwitch = document.getElementById('theme-switch');
     const themeIcon = document.getElementById('theme-icon');
